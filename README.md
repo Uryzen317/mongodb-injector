@@ -1,3 +1,4 @@
+Deprecated. Dont use
 <p align="center">
   Mongodb-injector
 </p>
